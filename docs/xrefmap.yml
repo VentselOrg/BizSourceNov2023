@@ -1,0 +1,19 @@
+### YamlMime:XRefMap
+sorted: true
+references:
+- uid: M:Codeunit::Artur#SayHello#Say_Hello.SayHello(Text[50])
+  name: SayHello
+  href: reference/myapp/Codeunit/Artur.SayHello.Say-Hello.html
+- uid: N:Module::MyApp
+  name: MyApp
+  summary: ''
+  fqName: MyApp by Artur (1.0.0.0)
+  href: reference/myapp/Module/MyApp.html
+- uid: O:Codeunit::Artur#SayHello#Say_Hello
+  name: "\"Say Hello\""
+  fqName: Artur.SayHello."Say Hello"
+  href: reference/myapp/Codeunit/Artur.SayHello.Say-Hello.html
+- uid: O:PageExtension::CustomerListExt
+  name: CustomerListExt
+  fqName: CustomerListExt
+  href: reference/myapp/PageExtension/CustomerListExt.html
