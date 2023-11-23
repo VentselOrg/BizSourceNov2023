@@ -1,0 +1,10 @@
+﻿{
+  "Modules": [
+    {
+      "AppId": "d40a1eac-7498-48a2-b324-378f58600599",
+      "Name": "MyApp",
+      "Publisher": "Artur",
+      "Version": "1.0.0.0"
+    }
+  ]
+}

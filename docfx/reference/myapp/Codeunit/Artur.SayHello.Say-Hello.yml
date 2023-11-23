@@ -1,0 +1,26 @@
+﻿### YamlMime:BusinessCentralApplicationObject
+fqName: Artur.SayHello."Say Hello"
+alId: ID 55000
+namespace: Artur.SayHello
+baseKind: Codeunit
+kind: Codeunit
+parent: N:Module::MyApp::Namespace::Artur.SayHello
+langs:
+- al
+seeAlso:
+- '[Codeunit](https://learn.microsoft.com/dynamics365/business-central/dev-itpro/developer/devenv-codeunit-object)'
+methods:
+- syntax:
+    content: 'procedure SayHello(UserName: Text[50])'
+    parameters:
+    - id: UserName
+      description: The name of the user
+      parameterType:
+        name: Text[50]
+        isExternal: true
+  summary: Says hello to a user.
+  uid: M:Codeunit::Artur#SayHello#Say_Hello.SayHello(Text[50])
+  name: SayHello
+commentId: O:Codeunit::Artur#SayHello#Say Hello
+uid: O:Codeunit::Artur#SayHello#Say_Hello
+name: '"Say Hello"'
